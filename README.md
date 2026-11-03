@@ -48,3 +48,40 @@ También se modelan relaciones de supervisión y suplencia entre médicos.
 │   └── Modelado Logico.jpeg
 └── SQL/
     └── TFI_clinica.sql
+
+## Diagramas
+
+### Diagrama entidad-relación: entidades y relaciones
+
+![Diagrama entidad-relación](Diagramas/DER_relaciones.jpg)
+
+### Diagrama entidad-relación: atributos
+
+![Diagrama entidad-relación con atributos](Diagramas/deratributos%20%283%29.png)
+
+### Diagrama entidad-relación: normalización de teléfonos
+
+![Diagrama entidad-relación con teléfonos](Diagramas/derrelaciones%20%282%29.png)
+
+### Modelo lógico relacional
+
+![Modelo lógico relacional](Diagramas/Modelado%20Logico.jpeg)
+
+## Implementación
+
+El archivo [`TFI_clinica.sql`](SQL/TFI_clinica.sql) contiene el script de creación de la base de datos y sus tablas.
+
+Para ejecutarlo:
+
+1. Abrir MySQL Workbench.
+2. Conectarse a una instancia local de MySQL.
+3. Abrir `SQL/TFI_clinica.sql`.
+4. Ejecutar el script completo.
+5. Actualizar el panel de esquemas para visualizar la base y sus tablas.
+
+
+
+
+
+
+

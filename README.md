@@ -48,7 +48,7 @@ También se modelan relaciones de supervisión y suplencia entre médicos.
 │   └── Modelado Logico.jpeg
 └── SQL/
     └── TFI_clinica.sql
-
+```
 ## Diagramas
 
 ### Diagrama entidad-relación: entidades y relaciones
